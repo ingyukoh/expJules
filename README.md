@@ -34,3 +34,13 @@ To run the script, execute the following command in your terminal:
 ```bash
 python hello.py
 ```
+
+Another script, `greet.py`, prompts you for your name and then greets you. Run it with:
+
+```bash
+python greet.py
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
