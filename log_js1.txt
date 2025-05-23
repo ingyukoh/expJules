@@ -1,0 +1,7 @@
+js1.jsx Log
+-----------
+- Created new document with artboard "AB" sized 200 mm x 500 mm.
+- Placed PatBlk.eps from the script folder.
+- Image scaled proportionally to fit within 40 mm width and 80 mm height.
+- File name text is added below the placed image.
+- Units throughout the document are set to millimeters.
